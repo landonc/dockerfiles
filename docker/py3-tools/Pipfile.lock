@@ -634,11 +634,11 @@
         },
         "opensearch-py": {
             "hashes": [
-                "sha256:17afebc25dc890b96c4e9ec8692dcfdb6842c028ce8c2d252e8f55c587960177",
-                "sha256:fa952836cabfa1b2fb05f852edc1a373342494345e89fd52b7124daf4d296bb4"
+                "sha256:7d0c41cea61fedc34542be7fb9169931360134cf823c596f719106c3bd8466fe",
+                "sha256:cb573546fb373dac8091be9b8eac2ba8da277713eea4b50b4a49ccd30dec25f1"
             ],
             "index": "pypi",
-            "version": "==1.0.0"
+            "version": "==1.1.0"
         },
         "paho-mqtt": {
             "hashes": [
