@@ -126,10 +126,10 @@
         },
         "antlr4-python3-runtime": {
             "hashes": [
-                "sha256:15793f5d0512a372b4e7d2284058ad32ce7dd27126b105fb0b2245130445db33"
+                "sha256:f224469b4168294902bb1efa80a8bf7855f24c99aef99cbefc1bcd3cce77881b"
             ],
             "markers": "python_version >= '3'",
-            "version": "==4.8"
+            "version": "==4.9.3"
         },
         "argparse": {
             "hashes": [
@@ -253,7 +253,7 @@
                 "sha256:2857e29ff0d34db842cd7ca3230549d1a697f96ee6d3fb071cfa6c7393832597",
                 "sha256:6881edbebdb17b39b4eaaa821b438bf6eddffb4468cf344f09f89def34a8b1df"
             ],
-            "markers": "python_version >= '3.5'",
+            "markers": "python_full_version >= '3.5.0'",
             "version": "==2.0.12"
         },
         "circleci": {
@@ -322,11 +322,11 @@
         },
         "elasticsearch": {
             "hashes": [
-                "sha256:0061c49c3d4202802c09fba6734e48699a47cfeb737747acecc932ea73b7d318",
-                "sha256:8c79fe145f23826df144d1adc406a131e5cf3f41f302869fb5a1263b381e5ee2"
+                "sha256:1b1fa86cbfab39bf43dce1f76f737fc59d5a8e792e2a721e0b4437db44da5647",
+                "sha256:f49ebaf9e9652a468db4dce5eb8a6a7ea33594ab988f6dadebf36f99772ac809"
             ],
             "index": "pypi",
-            "version": "==7.17.1"
+            "version": "==7.17.2"
         },
         "elasticsearch-dsl": {
             "hashes": [
@@ -987,10 +987,11 @@
         },
         "stix2-patterns": {
             "hashes": [
-                "sha256:174fe5302d2c3223205033af987754132a9ea45a9f8e08aefafbe0549c889ea4",
-                "sha256:bc46cc4eba44b76a17eab7a3ff67f35203543cdb918ab24c1ebd58403fa27992"
+                "sha256:07750c5a5af2c758e9d2aa4dde9d8e04bcd162ac2a9b0b4c4de4481d443efa08",
+                "sha256:ca4d68b2db42ed99794a418388769d2676ca828e9cac0b8629e73cd3f68f6458"
             ],
-            "version": "==1.3.2"
+            "markers": "python_version >= '3.6'",
+            "version": "==2.0.0"
         },
         "stomp.py": {
             "hashes": [
@@ -1050,7 +1051,7 @@
                 "sha256:44ece4d53fb1706f667c9bd1c648f5469a2ec925fcf3a776667042d645472c14",
                 "sha256:aabaf16477806a5e1dd19aa41f8c2b7950dd3c746362d7e3223dbe6de6ac448e"
             ],
-            "markers": "python_version >= '2.7' and python_version not in '3.0, 3.1, 3.2, 3.3, 3.4' and python_version < '4.0'",
+            "markers": "python_version >= '2.7' and python_version not in '3.0, 3.1, 3.2, 3.3, 3.4' and python_version < '4'",
             "version": "==1.26.9"
         },
         "validate-email": {
