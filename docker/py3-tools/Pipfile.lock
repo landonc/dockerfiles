@@ -253,7 +253,7 @@
                 "sha256:2857e29ff0d34db842cd7ca3230549d1a697f96ee6d3fb071cfa6c7393832597",
                 "sha256:6881edbebdb17b39b4eaaa821b438bf6eddffb4468cf344f09f89def34a8b1df"
             ],
-            "markers": "python_full_version >= '3.5.0'",
+            "markers": "python_version >= '3.5'",
             "version": "==2.0.12"
         },
         "circleci": {
@@ -338,10 +338,10 @@
         },
         "emoji": {
             "hashes": [
-                "sha256:cc28bdc1010b1c03c241f69c7af1e8715144ef45a273bfadc14dc89319ba26d0"
+                "sha256:65c54533ea3c78f30d0729288998715f418d7467de89ec258a31c0ce8660a1d1"
             ],
             "index": "pypi",
-            "version": "==1.6.3"
+            "version": "==1.7.0"
         },
         "enum-compat": {
             "hashes": [
