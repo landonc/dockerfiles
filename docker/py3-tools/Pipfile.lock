@@ -253,7 +253,7 @@
                 "sha256:2857e29ff0d34db842cd7ca3230549d1a697f96ee6d3fb071cfa6c7393832597",
                 "sha256:6881edbebdb17b39b4eaaa821b438bf6eddffb4468cf344f09f89def34a8b1df"
             ],
-            "markers": "python_version >= '3.5'",
+            "markers": "python_full_version >= '3.5.0'",
             "version": "==2.0.12"
         },
         "circleci": {
@@ -545,11 +545,11 @@
         },
         "minio": {
             "hashes": [
-                "sha256:524b1305cc4d9df2fab727f7e8d9d5dae7ddf85b5565a574cb94944d1f7c6cae",
-                "sha256:f33bb3d2a1b790d6ffc7b981c3f38c4f404d61c46de3cbd087fbf9d36a5f05ea"
+                "sha256:1ed6d4df7bbd505be984657ecce81ac6b196f434acf23315227aa892c98f9531",
+                "sha256:54a5e6eefcc958c88c493cf116ba86e52341efab88686163594f2e9410385124"
             ],
             "index": "pypi",
-            "version": "==7.1.5"
+            "version": "==7.1.6"
         },
         "multidict": {
             "hashes": [
