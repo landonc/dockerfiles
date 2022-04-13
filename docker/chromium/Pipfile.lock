@@ -226,7 +226,7 @@
                 "sha256:f401ed2bbb155e1ade150ccc63db1a4f6c1909d3d378f7d1235a44e90d75fb97",
                 "sha256:fb89397013cf302f282f0fc998bb7abf11d49dcff72c8ecb320f76ea6e2c5717"
             ],
-            "markers": "python_full_version >= '3.7.0'",
+            "markers": "python_version >= '3.7'",
             "version": "==9.1.0"
         },
         "pycparser": {
@@ -245,11 +245,11 @@
         },
         "pypdf2": {
             "hashes": [
-                "sha256:9b657dd65e0de0fd8710f09939955cda47bfb519f6bfec39128547d3f17246bb",
-                "sha256:b0d28ff065e7b494d8e4fdc8d0ef58909acb6e50eda68d807d98c64988589df5"
+                "sha256:3c91ed584f7e27ab775516050060daec280ff68d3f26b44c3872568ef79fe808",
+                "sha256:47f41f8d3834e8aa0cc715eb230302886240c249c8dc020065977e2ff002e75f"
             ],
             "index": "pypi",
-            "version": "==1.27.3"
+            "version": "==1.27.4"
         },
         "pysocks": {
             "hashes": [
@@ -294,7 +294,7 @@
                 "sha256:670a52d3115d0e879e1ac838a4eb999af32f858163e3a704fe4839de2a676070",
                 "sha256:fb2d48e4eab0dfb786a472cd514aaadc71e3445b203bc300bad93daa75d77c1a"
             ],
-            "markers": "python_full_version >= '3.7.0'",
+            "markers": "python_version >= '3.7'",
             "version": "==0.20.0"
         },
         "trio-websocket": {
@@ -330,7 +330,7 @@
                 "sha256:2218cb57952d90b9fca325c0dcfb08c3bda93e8fd8070b0a17f048e2e47a521b",
                 "sha256:a2e56bfd5c7cd83c1369d83b5feccd6d37798b74872866e62616e0ecf111bda8"
             ],
-            "markers": "python_full_version >= '3.7.0'",
+            "markers": "python_version >= '3.7'",
             "version": "==1.1.0"
         }
     },
