@@ -537,11 +537,11 @@
         },
         "markdownify": {
             "hashes": [
-                "sha256:782e310390cd5e4bde7543ceb644598c78b9824ee9f8d7ef9f9f4f8782e46974",
-                "sha256:edad0ad3896ec7460d05537ad804bbb3614877c6cd0df27b56dee218236d9ce2"
+                "sha256:07ab2605f3d0e5060d7b21b8e63e5ced91c7c123229d39bdcbb788f186ca616a",
+                "sha256:cbea873b7bcb942e15f881d762983409d6cd829047fbc749ad1b9821c673082e"
             ],
             "index": "pypi",
-            "version": "==0.10.3"
+            "version": "==0.11.1"
         },
         "minio": {
             "hashes": [
