@@ -55,27 +55,24 @@
         },
         "catboost": {
             "hashes": [
-                "sha256:06c38650ba4945b9dfcf2b6ea162faf169b08818d80166d3c287100881641905",
-                "sha256:101eacb54faac62c93863f752022f6396695424926fe81d4f07eef33a9f86e9d",
-                "sha256:24571c8aebf86f451ee1ac1371bade36c1e8f3c5020253f229d3265e40e57093",
-                "sha256:3390db82e11769ae21a05e2fff9b02045ac9d7fd8592320f92a644ea8c5d3346",
-                "sha256:3b427a5598fdba88d7fe0f926f7f89f48711c400a753063b144a74b8e932c54f",
-                "sha256:534e2d041896546bd069a5ff401f12c6cb6dc22b6456e45220d065f74673bbf7",
-                "sha256:5dc2b36fd2b53c0de9dd32aa1b5c048ab63bbacce2d3b36b85fbab90f49f1e91",
-                "sha256:81c6ac17699105abc56ba55bdec7212946aed93337295d8571b488ce1d745792",
-                "sha256:9450fabbe621899fa5bece07cb126d76893cba11e68f443c9c4967558bec4ff3",
-                "sha256:9b98aea5991d1745ff67f4ba18e7c09951cb69b2e128afd0e5397251c1bb2d91",
-                "sha256:a957b68632ec2995b4a80aed21c24998b38a8d2bf77cbf8e38f7fe3be50dc817",
-                "sha256:bdefcf5236dd204eaf8bdd2c9f3bf4672ba4839d1d90fdc9a735f311f3058f69",
-                "sha256:c2921e50345eacde3260a5b9801f548bf1b2d3b5b87fddb82c8ddc86b19b49f6",
-                "sha256:c7f27a009bfc6f4bfa5fb8d6422f96cb87c27becdbf7eccd0218641464a35448",
-                "sha256:d081af8bdff1f1a5a0fe625c866256941554ab5f14bb1331229f138853371b6d",
-                "sha256:d11cb570649a45b0c7f2420eb58091b557944dc910f39e0a77cf49da7172a04a",
-                "sha256:f1e7f89f14cae51cf5dc1aef60e1bfe644cfbe3168624de8fa0fd2df2b9f4bd1",
-                "sha256:f91ffdfe63f6444b0c22c800972249c4a5a9f4773ec5ab8f7aa5b524d9c00e46"
+                "sha256:2101d89b51b367f79cc77976baafd9fc00a36a02961b8978d2634c8385c73284",
+                "sha256:50d3fedd5770e392448a092b1b50cd988dd55245aaf5cf1231cea6ef516be691",
+                "sha256:573384b1e45634a9af72ef3d410ca90994f27e330420699330d2e50a99e775f2",
+                "sha256:73178c1b7cabc97d869522dc72dfcdf521e17edff112fe8d7a62c1c4c737d7ac",
+                "sha256:7abbe16ba49c44197061d9c375da8a6d8e586fc1314025427d89271a61c5b483",
+                "sha256:7fb3731d4909fec61575a5cf597a32c661e144b5aa88a0f601fb3977a4d51283",
+                "sha256:8252ae1314608bfefa0896f1d78604bf05b816053abb60b687f5726c8d8cbcbd",
+                "sha256:8e468f0ce2b322833554b28dde9b35d6035a9e79c3e8ec7ec3bd21ff3b97fe14",
+                "sha256:bd267e97523996478a5c0e0cecdb1f9c186e155faf8b4f2070d78923e79b22b1",
+                "sha256:c52f82389f155b15c8c21ea42cd6dea10c01e561cec6c4f18b1d0460ab04e23e",
+                "sha256:d092fd6e8a0b8ff541bc4934987eb7a715a132ddf2c80004486a684bc0ee6d2e",
+                "sha256:d14a481e5f4d20d48d6c7e971f71300b5b58d763950fbcc9a5d9f8642e9ebed3",
+                "sha256:d90b5708753e45d15a854db003889c447fc1ef69a7dd2b796695bd89550e9fe3",
+                "sha256:e381d9c23a5e2a77ff953931b9f803a52647c8039cf4ae0c10086296654ec53a",
+                "sha256:f5c752111901a5c877b84b9bd6943e2a6419baa0cd53698b6646732c03cc3305"
             ],
             "index": "pypi",
-            "version": "==0.26"
+            "version": "==1.0.5"
         },
         "certifi": {
             "hashes": [
@@ -857,7 +854,7 @@
                 "sha256:71d14489da58b60ce12fc3ecb823facc59a8b23cd1b58edb97175640350d3a62",
                 "sha256:75abf758717a92a8f53aa96953f0c245c8cedf8e1e4184903db3659b419d4c17"
             ],
-            "markers": "python_version >= '3.6' and python_version < '4'",
+            "markers": "python_version >= '3.6' and python_version < '4.0'",
             "version": "==5.2.1"
         },
         "spacy": {
@@ -1003,7 +1000,7 @@
                 "sha256:44ece4d53fb1706f667c9bd1c648f5469a2ec925fcf3a776667042d645472c14",
                 "sha256:aabaf16477806a5e1dd19aa41f8c2b7950dd3c746362d7e3223dbe6de6ac448e"
             ],
-            "markers": "python_version >= '2.7' and python_version not in '3.0, 3.1, 3.2, 3.3, 3.4' and python_version < '4'",
+            "markers": "python_version >= '2.7' and python_version not in '3.0, 3.1, 3.2, 3.3, 3.4' and python_version < '4.0'",
             "version": "==1.26.9"
         },
         "wasabi": {
