@@ -388,11 +388,11 @@
         },
         "demisto-py": {
             "hashes": [
-                "sha256:1bb94c7725c4e51a989ec7847868d377d141b6353a4491e55ca59fe84d6f1341",
-                "sha256:c269ad1668d76995c9bc404e36a3f12bd4a092b1ff10ff5fe48568863b5c5823"
+                "sha256:43b1263effa3e2dc8cff0d32007a65c20a32614eb53fb2d4283e58c0df607563",
+                "sha256:edb5e5ef9bb3a687002169bd1109e694d432f9e0eda578753fba7a9244566547"
             ],
             "index": "pypi",
-            "version": "==3.1.6"
+            "version": "==3.1.7"
         },
         "demisto-sdk": {
             "hashes": [
@@ -1147,11 +1147,11 @@
         },
         "pyparsing": {
             "hashes": [
-                "sha256:7bf433498c016c4314268d95df76c81b842a4cb2b276fa3312cfb1e1d85f6954",
-                "sha256:ef7b523f6356f763771559412c0d7134753f037822dad1b16945b7b846f7ad06"
+                "sha256:2b020ecf7d21b687f219b71ecad3631f644a47f01403fa1d1036b0c6416d70fb",
+                "sha256:5026bae9a10eeaefb61dab2f09052b9f4307d44aee4eda64b309723d8d206bbc"
             ],
             "markers": "python_full_version >= '3.6.8'",
-            "version": "==3.0.8"
+            "version": "==3.0.9"
         },
         "pypdf2": {
             "hashes": [
@@ -1417,11 +1417,11 @@
         },
         "setuptools": {
             "hashes": [
-                "sha256:26ead7d1f93efc0f8c804d9fafafbe4a44b179580a7105754b245155f9af05a8",
-                "sha256:47c7b0c0f8fc10eec4cf1e71c6fdadf8decaa74ffa087e68cd1c20db7ad6a592"
+                "sha256:5534570b9980fc650d45c62877ff603c7aaaf24893371708736cc016bd221c3c",
+                "sha256:ca6ba73b7fd5f734ae70ece8c4c1f7062b07f3352f6428f6277e27c8f5c64237"
             ],
             "markers": "python_version >= '3.7'",
-            "version": "==62.1.0"
+            "version": "==62.2.0"
         },
         "six": {
             "hashes": [
@@ -1568,10 +1568,10 @@
         },
         "types-protobuf": {
             "hashes": [
-                "sha256:670b25c1a4f3d650a9d8a009b0cf19a1aa0e7cba044045648b563e825f35d4d3",
-                "sha256:78d677fefb10e3ea88b8c0fab543833e82cd6eb27e3f71aeda2d5cd9bd503ae1"
+                "sha256:5bba355b54276dce4c4eadad55a8cc91c597b0031c24479ba335e3aecc650ed7",
+                "sha256:a8f3f9c1d11548ab04debbc716a3825c0bbc1d29f245d6c9a2aec2ca2544cec4"
             ],
-            "version": "==3.19.18"
+            "version": "==3.19.20"
         },
         "types-pymysql": {
             "hashes": [
