@@ -64,11 +64,11 @@
         },
         "dill": {
             "hashes": [
-                "sha256:3a11d19c15d409296a2ee714b1dbd5efb733a329f0d89c0e58aad6154ab6f2f5",
-                "sha256:6eb4bb70a98509e69204e621942c4306580d5bf2229f450f04fcf2efca3908e5"
+                "sha256:33501d03270bbe410c72639b350e941882a8b0fd55357580fbc873fba0c59302",
+                "sha256:d75e41f3eff1eee599d738e76ba8f4ad98ea229db8b085318aa2b3333a208c86"
             ],
             "index": "pypi",
-            "version": "==0.3.5"
+            "version": "==0.3.5.1"
         },
         "hdbscan": {
             "hashes": [
