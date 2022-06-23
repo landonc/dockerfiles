@@ -18,11 +18,11 @@
     "default": {
         "imap-tools": {
             "hashes": [
-                "sha256:15d20ac8695fc4978a913c2186f482a802f5229c41c6e0c66c7bad8f1f590cf1",
-                "sha256:606b73a1b5ecc4c72eea5ad19231e07a88bf9ba9adbdd4acb8cf71a359dd43ec"
+                "sha256:4fe4c07c4cc4aab83492d126e221c39118ff530268149b721296fc0fb87de3c2",
+                "sha256:56942853be2125d509365b84eacf0f3a87ae58ea8f82bca7a6943634a60cfb60"
             ],
             "index": "pypi",
-            "version": "==0.54.0"
+            "version": "==0.56.0"
         },
         "imapclient": {
             "hashes": [
