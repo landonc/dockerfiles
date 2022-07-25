@@ -26,11 +26,11 @@
         },
         "minio": {
             "hashes": [
-                "sha256:1539a1f35cb0ae905849cc8fd23ee96d6dc4adc1a793fd6aeacc106f78a6cfc3",
-                "sha256:4a2e1c0d41fb4c0936be544b73fbb1f4eb85d17002b232f101bc701b0b1203e2"
+                "sha256:12ac2d1d4fd3cea159d625847445e1bfceba3fbc2f4ab692c2d2bf716f82246c",
+                "sha256:1cab424275749b8b5b8bb0c6cc856d667305ef549796ae56f3237fe55306a1fc"
             ],
             "index": "pypi",
-            "version": "==7.1.10"
+            "version": "==7.1.11"
         },
         "urllib3": {
             "hashes": [
