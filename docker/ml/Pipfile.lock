@@ -178,11 +178,11 @@
         },
         "fsspec": {
             "hashes": [
-                "sha256:0ca23992f425c1ba61bf11d3cb3af8ad5363be8612e26732b520090556f173f2",
-                "sha256:2cdaafb51dd71e062afffcabcbc4925acef95f9bdd8d822d2010e4bf92951bd7"
+                "sha256:e6186c96b629b1d245f1012c92a476161137c8202e0a984e1268c93e8a4eb16b",
+                "sha256:fcf46e43302421608373e5ca422ad85a72340ea71ed6ca0f8085b209cd22e457"
             ],
             "index": "pypi",
-            "version": "==2021.6.1"
+            "version": "==2022.7.0"
         },
         "graphviz": {
             "hashes": [
@@ -1100,10 +1100,10 @@
         },
         "wasabi": {
             "hashes": [
-                "sha256:217edcb2850993c7931399e7419afccde13539d589e333bc85f9053cf0bb1772",
-                "sha256:ada6f13e9b70ef26bf95fad0febdfdebe2005e29a08ad58f4bbae383a97298cf"
+                "sha256:c8e372781be19272942382b14d99314d175518d7822057cb7a97010c4259d249",
+                "sha256:fe862cc24034fbc9f04717cd312ab884f71f51a8ecabebc3449b751c2a649d83"
             ],
-            "version": "==0.9.1"
+            "version": "==0.10.1"
         }
     },
     "develop": {}
