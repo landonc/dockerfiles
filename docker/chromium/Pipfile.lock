@@ -182,11 +182,11 @@
         },
         "pypdf2": {
             "hashes": [
-                "sha256:04ce42cd05707881fedbca3164744511805fe8c30618ae4cfb2b940e3368d5ad",
-                "sha256:7d80914ebb4cf93348d270f27a7a5eb741b912be63927da65c4c6b292c2f6b10"
+                "sha256:0edc8b05f953b13cbecf2e0a8ec23380ed51280711b56f26140a91d0d8b3aa47",
+                "sha256:3c7930d9f2ba25dc9b182d9c2293ad6de3adaf2a3934c7e8c4178655ae8c7a39"
             ],
             "index": "pypi",
-            "version": "==1.28.4"
+            "version": "==2.10.7"
         },
         "pysocks": {
             "hashes": [
@@ -257,6 +257,14 @@
             ],
             "markers": "python_version >= '3.5'",
             "version": "==0.9.2"
+        },
+        "typing-extensions": {
+            "hashes": [
+                "sha256:25642c956049920a5aa49edcdd6ab1e06d7e5d467fc00e0506c44ac86fbfca02",
+                "sha256:e6d2677a32f47fc7eb2795db1dd15c1f34eff616bcaf2cfb5e997f854fa1c4a6"
+            ],
+            "markers": "python_version < '3.10'",
+            "version": "==4.3.0"
         },
         "urllib3": {
             "extras": [
