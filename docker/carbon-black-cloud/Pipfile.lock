@@ -50,11 +50,11 @@
         },
         "cbapi": {
             "hashes": [
-                "sha256:6423ae2cfed944c0b29c1d31f597516a68098f1ea83c7fcdaa76cf18251c0572",
-                "sha256:ba50234084ce0efc50c21deb7200cf6fa11bba3294463996edea6c143cc3fcc1"
+                "sha256:aa9406cff5a69079ad1939e2f5776f7330a2c441d5812f9d6e6f5cb2a6176171",
+                "sha256:b52ca554f8bfa8fd711f648fd8dd4369cff69cbd1628078cd9a92124ef411528"
             ],
             "index": "pypi",
-            "version": "==1.7.8"
+            "version": "==1.7.9"
         },
         "certifi": {
             "hashes": [
@@ -274,11 +274,11 @@
         },
         "cbapi": {
             "hashes": [
-                "sha256:6423ae2cfed944c0b29c1d31f597516a68098f1ea83c7fcdaa76cf18251c0572",
-                "sha256:ba50234084ce0efc50c21deb7200cf6fa11bba3294463996edea6c143cc3fcc1"
+                "sha256:aa9406cff5a69079ad1939e2f5776f7330a2c441d5812f9d6e6f5cb2a6176171",
+                "sha256:b52ca554f8bfa8fd711f648fd8dd4369cff69cbd1628078cd9a92124ef411528"
             ],
             "index": "pypi",
-            "version": "==1.7.8"
+            "version": "==1.7.9"
         },
         "certifi": {
             "hashes": [
