@@ -120,11 +120,11 @@
         },
         "dateparser": {
             "hashes": [
-                "sha256:107f3cc87a60770e10d111349adc1504224a6b60753a47a64b0ec842ab85b5a9",
-                "sha256:ceb159f1b4a9df54ed6209e91298097deafde476037f8611b4cb2b1cb8b31c58"
+                "sha256:c47b6e4b8c4b2b2a21690111b6571b6991295ba327ec6503753abeebf5e80696",
+                "sha256:e703db1815270c020552f4b3e3a981937b48b2cbcfcef5347071b74788dd9214"
             ],
             "index": "pypi",
-            "version": "==1.1.5"
+            "version": "==1.1.6"
         },
         "filelock": {
             "hashes": [
