@@ -26,19 +26,19 @@
         },
         "minio": {
             "hashes": [
-                "sha256:462aebd79000d5b923b2a728352014f76292bbd81a9d00e3ed25aa6ec4dc41f2",
-                "sha256:8828615a20cde82df79c5a52005252ad29bb022cde25177a4a43952a04c3222c"
+                "sha256:230faf1d0db1c3ce09aef86b0eb38e994a64769e34dad4b77febf59bc90d8ab0",
+                "sha256:ee5cbd4ba73f71b73555209f3411d5da3e9742bbe3fd038c362042d6d2527256"
             ],
             "index": "pypi",
-            "version": "==7.1.13"
+            "version": "==7.1.14"
         },
         "urllib3": {
             "hashes": [
-                "sha256:47cc05d99aaa09c9e72ed5809b60e7ba354e64b59c9c173ac3018642d8bb41fc",
-                "sha256:c083dd0dce68dbfbe1129d5271cb90f9447dea7d52097c6e0126120c521ddea8"
+                "sha256:8a388717b9476f934a21484e8c8e61875ab60644d29b9b39e11e4b9dc1c6b305",
+                "sha256:aa751d169e23c7479ce47a0cb0da579e3ede798f994f5816a74e4f4500dcea42"
             ],
             "markers": "python_version >= '2.7' and python_version not in '3.0, 3.1, 3.2, 3.3, 3.4, 3.5'",
-            "version": "==1.26.13"
+            "version": "==1.26.15"
         }
     },
     "develop": {}
