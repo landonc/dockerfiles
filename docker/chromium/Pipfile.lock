@@ -367,11 +367,11 @@
         },
         "webdriver-manager": {
             "hashes": [
-                "sha256:2d807ec270d2d990022b86efabd4096053e0a1e7a34c6174f9937320dfdc6826",
-                "sha256:e671f3b738af52351341d6df6674c2f0b959db0fe978e9a7135cfa36d1ad9560"
+                "sha256:7d3aa8d67bd6c92a5d25f4abd75eea2c6dd24ea6617bff986f502280903a0e2b",
+                "sha256:ee788d389b8f45222a8a62f6f39b579360a1f87be46dad6da89918354af3ce73"
             ],
             "index": "pypi",
-            "version": "==3.8.5"
+            "version": "==3.8.6"
         },
         "wsproto": {
             "hashes": [
