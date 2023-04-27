@@ -271,7 +271,7 @@
                 "sha256:f1496ea22ca2c830cbcbd473de8f114a320da308438ae65abad6bab7867fe38f",
                 "sha256:f49e52d174375a7def9915c9f06ec4e569d235ad428f70751765f48d5926678c"
             ],
-            "markers": "python_version >= '2.7' and python_version not in '3.0, 3.1, 3.2, 3.3, 3.4'",
+            "markers": "python_version == '2.7' and python_version >= '3.5'",
             "version": "==4.9.2"
         },
         "lz4": {
@@ -406,11 +406,11 @@
         },
         "pytz": {
             "hashes": [
-                "sha256:83a4a90894bf38e243cf052c8b58f381bfe9a7a483f6a9cab140bc7f702ac4da",
-                "sha256:eb10ce3e7736052ed3623d49975ce333bcd712c7bb19a58b9e2089d4057d0798"
+                "sha256:1d8ce29db189191fb55338ee6d0387d82ab59f3d00eac103412d64e0ebd0c588",
+                "sha256:a151b3abb88eda1d4e34a9814df37de2a80e301e68ba0fd856fb9b46bfbbbffb"
             ],
             "index": "pypi",
-            "version": "==2021.1"
+            "version": "==2023.3"
         },
         "setuptools": {
             "hashes": [
