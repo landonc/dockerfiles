@@ -138,11 +138,11 @@
         },
         "filelock": {
             "hashes": [
-                "sha256:42f1e4ff2b497311213d61ad7aac5fed9050608e5309573f101eefa94143134a",
-                "sha256:82b1f7da46f0ae42abf1bc78e548667f484ac59d2bcec38c713cee7e2eb51e83"
+                "sha256:002740518d8aa59a26b0c76e10fb8c6e15eae825d34b6fdf670333fd7b938d81",
+                "sha256:cbb791cdea2a72f23da6ac5b5269ab0a0d161e9ef0100e653b69049a7706d1ec"
             ],
             "markers": "python_version >= '3.7'",
-            "version": "==3.12.1"
+            "version": "==3.12.2"
         },
         "flatbuffers": {
             "hashes": [
@@ -248,7 +248,7 @@
                 "sha256:f17e562de9edf691a42ddb1eb4a5541c20dd3f9e65b09ded2beb0799c0cf29bb",
                 "sha256:fdffbfb6832cd0b300995a2b08b8f6fa9f6e856d562800fea9182316d99c4e8e"
             ],
-            "markers": "python_version < '3.10' and platform_machine != 'aarch64' and platform_machine != 'arm64'",
+            "markers": "python_version < '3.11' and python_version >= '3.7'",
             "version": "==1.21.6"
         },
         "onnx": {
@@ -678,11 +678,11 @@
         },
         "transformers": {
             "hashes": [
-                "sha256:9b12bd9d69f21b7c56cd512117fd52856b3def1c9bfc1da97ab0ee4e8bcbd797",
-                "sha256:fa74fc271d0692f385d571ce83ec898e3350455f6076d21631f4eed4916e6ffd"
+                "sha256:c332e3a3097f9ed89ce556b403251235931c00237b8bc2d7adaa19d226c13f1d",
+                "sha256:f4a8aac4e1baffab4033f4a345b0d7dc7957d12a4f1ba969afea08205a513045"
             ],
             "index": "pypi",
-            "version": "==4.30.1"
+            "version": "==4.30.2"
         },
         "typing-extensions": {
             "hashes": [
