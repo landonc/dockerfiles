@@ -344,11 +344,11 @@
         },
         "fsspec": {
             "hashes": [
-                "sha256:0ca23992f425c1ba61bf11d3cb3af8ad5363be8612e26732b520090556f173f2",
-                "sha256:2cdaafb51dd71e062afffcabcbc4925acef95f9bdd8d822d2010e4bf92951bd7"
+                "sha256:1cbad1faef3e391fba6dc005ae9b5bdcbf43005c9167ce78c915549c352c869a",
+                "sha256:d0b2f935446169753e7a5c5c55681c54ea91996cc67be93c39a154fb3a2742af"
             ],
             "index": "pypi",
-            "version": "==2021.6.1"
+            "version": "==2023.6.0"
         },
         "graphviz": {
             "hashes": [
