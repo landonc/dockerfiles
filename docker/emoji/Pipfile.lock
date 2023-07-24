@@ -18,10 +18,10 @@
     "default": {
         "emoji": {
             "hashes": [
-                "sha256:e42da4f8d648f8ef10691bc246f682a1ec6b18373abfd9be10ec0b398823bd11"
+                "sha256:39ad95c9ba270cdfbd141d20c2ebcfc4e295d010b605de66908a098a3ba63a3c"
             ],
             "index": "pypi",
-            "version": "==0.6.0"
+            "version": "==2.6.0"
         }
     },
     "develop": {}
