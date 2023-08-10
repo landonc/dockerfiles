@@ -6,7 +6,7 @@ verify_ssl = true
 [dev-packages]
 
 [packages]
-opencv-python = "==4.8.0.74"
+opencv-python = "==4.8.0.76"
 scikit-learn = "*"
 pandas = "*"
 beautifulsoup4 = "*"
