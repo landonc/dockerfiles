@@ -115,11 +115,11 @@
         },
         "intezer-sdk": {
             "hashes": [
-                "sha256:b57bf68bc868bb7ddced27fbdc126d611487e7761d10f70fe528de8723db7e93",
-                "sha256:d310a6cb65de8b745a0babf861a8075474ab148765548597d160eb059d312e9b"
+                "sha256:5e1e29d27b97d2f25ebfd1ed2ae420de0fce9934ad42ad7004004d9685a6eca9",
+                "sha256:ce8e25763fc5285c9d58b9f69f923a26476ec2c4bf1fe21f2e6f14d7509cbcd6"
             ],
             "index": "pypi",
-            "version": "==1.19.2"
+            "version": "==1.19.3"
         },
         "requests": {
             "hashes": [
@@ -131,11 +131,11 @@
         },
         "urllib3": {
             "hashes": [
-                "sha256:8d22f86aae8ef5e410d4f539fde9ce6b2113a001bb4d189e0aed70642d602b11",
-                "sha256:de7df1803967d2c2a98e4b11bb7d6bd9210474c46e8a0401514e3a42a75ebde4"
+                "sha256:13abf37382ea2ce6fb744d4dad67838eec857c9f4f57009891805e0b5e123594",
+                "sha256:ef16afa8ba34a1f989db38e1dbbe0c302e4289a47856990d0682e374563ce35e"
             ],
             "markers": "python_version >= '3.7'",
-            "version": "==2.0.4"
+            "version": "==2.0.5"
         }
     },
     "develop": {}
