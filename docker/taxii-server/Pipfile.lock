@@ -46,6 +46,7 @@
                 "sha256:f69fcd559dc907ed196ab9df0e48471709175e696d6e698dd4dbe940f96ce66b"
             ],
             "index": "pypi",
+            "markers": "python_version >= '3.8'",
             "version": "==2.3.3"
         },
         "gevent": {
@@ -85,6 +86,7 @@
                 "sha256:f48b64578c367b91fa793bf8eaaaf4995cb93c8bc45860e473bf868070ad094e"
             ],
             "index": "pypi",
+            "markers": "python_version >= '2.7' and python_version not in '3.0, 3.1, 3.2, 3.3, 3.4, 3.5'",
             "version": "==21.12.0"
         },
         "greenlet": {
@@ -286,7 +288,7 @@
                 "sha256:fcdd00edfd0a3001e0181eab3e63bd5c74ad3e67152c84f93f13769a40e073a7",
                 "sha256:fe4bda6bd4340caa6e5cf95e73f8fea5c4bfc55763dd42f1b50a94c1b4a2fbd4"
             ],
-            "markers": "python_version == '2.7' and python_version >= '3.5'",
+            "markers": "python_version >= '2.7' and python_version not in '3.0, 3.1, 3.2, 3.3, 3.4'",
             "version": "==4.9.3"
         },
         "lz4": {
@@ -324,6 +326,7 @@
                 "sha256:e3029738e64a0af1b04a32a39b32b0bba0e2088f61805e074c9a7e4bc212568f"
             ],
             "index": "pypi",
+            "markers": "python_version >= '3.5'",
             "version": "==3.1.3"
         },
         "markupsafe": {
@@ -477,11 +480,12 @@
         },
         "werkzeug": {
             "hashes": [
-                "sha256:2b8c0e447b4b9dbcc85dd97b6eeb4dcbaf6c8b6c3be0bd654e25553e0a2157d8",
-                "sha256:effc12dba7f3bd72e605ce49807bbe692bd729c3bb122a3b91747a6ae77df528"
+                "sha256:3ffff4dcc32db52ef3cc94dff3000a3c2846890f3a5a51800a27b909c5e770f0",
+                "sha256:cbb2600f7eabe51dbc0502f58be0b3e1b96b893b05695ea2b35b43d4de2d9962"
             ],
             "index": "pypi",
-            "version": "==2.3.7"
+            "markers": "python_version >= '3.8'",
+            "version": "==3.0.0"
         },
         "xlrd": {
             "hashes": [
