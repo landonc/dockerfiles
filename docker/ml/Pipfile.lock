@@ -408,12 +408,12 @@
         },
         "fsspec": {
             "hashes": [
-                "sha256:0ca23992f425c1ba61bf11d3cb3af8ad5363be8612e26732b520090556f173f2",
-                "sha256:2cdaafb51dd71e062afffcabcbc4925acef95f9bdd8d822d2010e4bf92951bd7"
+                "sha256:918d18d41bf73f0e2b261824baeb1b124bcf771767e3a26425cd7dec3332f512",
+                "sha256:f39780e282d7d117ffb42bb96992f8a90795e4d0fb0f661a70ca39fe9c43ded9"
             ],
             "index": "pypi",
-            "markers": "python_version >= '3.6'",
-            "version": "==2021.6.1"
+            "markers": "python_version >= '3.8'",
+            "version": "==2024.3.1"
         },
         "graphviz": {
             "hashes": [
