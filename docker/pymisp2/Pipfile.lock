@@ -178,20 +178,20 @@
         },
         "publicsuffixlist": {
             "hashes": [
-                "sha256:6f23eae56171b98e97dc59344cc0700c96869f8adf57674fc6e5386716225c12",
-                "sha256:731c7112cc1a0d92ebd5208af983adee7a3696948147c5ff1710a51530df7305"
+                "sha256:4b8328db52f34a9a4bc6fcda7c6db45e729e1a6cbeeb30ab85a2a87c37b16113",
+                "sha256:df50c2b75e16a6887431702d92a02171bf8c78d34722e8a2bd91e56cf14cbed2"
             ],
             "markers": "python_version >= '3.5'",
-            "version": "==1.0.2.20240727"
+            "version": "==1.0.2.20240822"
         },
         "pymisp": {
             "hashes": [
-                "sha256:3200bc0934fbd51c8146eae3e5174720cd1987307c1a561312b29f96bb52fe51",
-                "sha256:5603b69f253a43e964e28be20ac90430ec014ae3e10b4335fec14c88b0b10dca"
+                "sha256:86620b0b77b51eb5d08dcb2c1705ab0ce36813e35f48a488067266f565005dc9",
+                "sha256:f56ad708566b9f912809375cb982fadf67a3eb282970e1172d971b0fad35042b"
             ],
             "index": "pypi",
             "markers": "python_version >= '3.8' and python_version < '4.0'",
-            "version": "==2.4.195"
+            "version": "==2.4.196"
         },
         "python-dateutil": {
             "hashes": [
