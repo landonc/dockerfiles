@@ -18,11 +18,12 @@
     "default": {
         "xlsxwriter": {
             "hashes": [
-                "sha256:0956747859567ec01907e561a7d8413de18a7aae36860f979f9da52b9d58bc19",
-                "sha256:f9335f1736e2c4fd80e940fe1b6d92d967bf454a1e5d639b0b7a4459ade790cc"
+                "sha256:7e8f7c60b7a1660ef791d46ab5de78469cb978b991ca841af61f5832d2f9f4fe",
+                "sha256:97618759cb264fb6a93397f660cca156ffa9561743b1823dafb60dc4474e1902"
             ],
             "index": "pypi",
-            "version": "==1.4.5"
+            "markers": "python_version >= '3.6'",
+            "version": "==3.2.1"
         }
     },
     "develop": {}
