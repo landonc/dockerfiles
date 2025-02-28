@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "6389724a3ac4eb2bf6b11e62e37d121fcfc386e22ef9ef3880b1d310ff072187"
+            "sha256": "4e23db74d803dd7e016c9900c9fc38843eb2f65dc4e44f95ba2d09895c1eb01d"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -18,26 +18,11 @@
     "default": {
         "confluent-kafka": {
             "hashes": [
-                "sha256:066856f43b248c6634f43a01bb5798c1acf8553fcad0ee04f353643a2473b788",
-                "sha256:1446e5d8502694f4a9140ace087567b85300bd9766a532e006f2f6e9c6e99284",
-                "sha256:2008aeca66112722d3bcbff0baa40e129bdc6747755d5e71409493f2b56ffa36",
-                "sha256:2f87004473718d1976f57c9e23307c216daf8cbd47ffa7115ef0ce48963c9c69",
-                "sha256:41590186d9528b4a9e3a6116551918471f41e82f54438742f1c8ecbe2441d1c3",
-                "sha256:45fa3b9d4d015c099dcb5fd77cbc0d40f6683afe9a9b279c82fb0ed814e11724",
-                "sha256:49312cd1dce9963578669412831c55a83dc42ced0af975fe8a885860d4439505",
-                "sha256:4a93eccaab455ab4ad70cdd22f2e15b9fd5607a019dd08cd95b04308193f84cb",
-                "sha256:5559cb175cb668f53e4a053d921a06393aaf2a16b14cd807439e93d7100b1594",
-                "sha256:7cec61388faf7d122ae0bfb7948bdb1333ad8bd95a6cdc50eac97342e0faff75",
-                "sha256:80b87db486566067f7a24955f33db0fe74af977938c917216fe709b0332f668e",
-                "sha256:9ea5916b7537e5679011387336c101433567587d3862351e75c8bb8d0dc3d838",
-                "sha256:c3bfe2a13efb0bb810146466175038c0202b8e5f14a9a37ca494bbd777f26870",
-                "sha256:f85c80a6b37bf60caa8118d2be205380e037e389769ee92b15cc733e3044e17a",
-                "sha256:fa1cbc113809a0aa1f8b33c4ec2cf246fcbc329c3b9e40054514d4c95ffd44e4",
-                "sha256:fb23fd087695cf1753a43bf77173e9c87f535b9293b94b7f29f17461c1ba9eb5",
-                "sha256:fdca4a62ed61ae8d77758f3df163c7959a1757a2cd37f0f54a15f7f347841b59"
+                "sha256:35328fb096ce0d92fd62c946aae9cc0d33b0e8706ae3f1b69f5cd295a499424b"
             ],
             "index": "pypi",
-            "version": "==1.9.0"
+            "markers": "python_version >= '3.7'",
+            "version": "==2.8.1"
         }
     },
     "develop": {}
