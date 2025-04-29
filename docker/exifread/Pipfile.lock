@@ -18,11 +18,12 @@
     "default": {
         "exifread": {
             "hashes": [
-                "sha256:3ef8725efdb66530b4b3cd1c4ba5d3f3b35a7872137d2c707f711971f8ebf809",
-                "sha256:a0f74af5040168d3883bbc980efe26d06c89f026dc86ba28eb34107662d51766"
+                "sha256:61bf924693f89626cc36a35fc0eeb4513e6638b2f319e9a1ed83b3227492e81c",
+                "sha256:9bc3e34b2a25754a445aadd94c9af911928ef95de8c7a91f85219a8b4202c23d"
             ],
             "index": "pypi",
-            "version": "==2.3.2"
+            "markers": "python_version >= '3.7'",
+            "version": "==3.2.0"
         }
     },
     "develop": {}
