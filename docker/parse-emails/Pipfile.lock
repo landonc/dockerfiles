@@ -1384,12 +1384,12 @@
         },
         "parse-emails": {
             "hashes": [
-                "sha256:02190ecb54d16fe26120140b168a9483a2cbfb85f44d2c065f53f311a731dfb2",
-                "sha256:0a9815871ec9de98859ab9a5817b0b79218f9cd50b0472ed59118222af7cd7f2"
+                "sha256:aa190fa8cf350f7958f0f0f8dabca22384119ce0076c6cd46f5815962b32b275",
+                "sha256:dcd9227007d58824a409b8f54f1d3e0e6efeebde8acad9602ccaa71cb0885f12"
             ],
             "index": "pypi",
             "markers": "python_version < '3.13' and python_version >= '3.9'",
-            "version": "==0.1.42"
+            "version": "==0.1.43"
         },
         "pbr": {
             "hashes": [
