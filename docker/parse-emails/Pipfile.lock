@@ -866,11 +866,11 @@
         },
         "jira": {
             "hashes": [
-                "sha256:12190dc84dad00b8a6c0341f7e8a254b0f38785afdec022bd5941e1184a5a3fb",
-                "sha256:63719c529a570aaa01c3373dbb5a104dab70381c5be447f6c27f997302fa335a"
+                "sha256:2d09ae3bf4741a2787dd889dfea5926a5d509aac3b28ab3b98c098709e6ee72d",
+                "sha256:d4da1385c924ee693d6cc9838e56a34e31d74f0d6899934ef35bbd0d2d33997f"
             ],
-            "markers": "python_version >= '3.8'",
-            "version": "==3.8.0"
+            "markers": "python_version >= '3.10'",
+            "version": "==3.10.5"
         },
         "joblib": {
             "hashes": [
@@ -1384,12 +1384,12 @@
         },
         "parse-emails": {
             "hashes": [
-                "sha256:26f5636fdb7021f38c8e9a1201637b729d57991d7c295fd523b9e13f36150624",
-                "sha256:47395a0ede01eeff48ee78c190cd2c4586848c06dbd7dbacd39273869bf15757"
+                "sha256:4f104f37426b753068af72255e9ca43c3f82649afb793d833c725da9c4ec25e9",
+                "sha256:5d223e97271e650f8976077273ac66bd06b89aad9108bdef0f455a08c385a41f"
             ],
             "index": "pypi",
             "markers": "python_version < '3.13' and python_version >= '3.9'",
-            "version": "==0.1.44"
+            "version": "==0.1.45"
         },
         "pbr": {
             "hashes": [
