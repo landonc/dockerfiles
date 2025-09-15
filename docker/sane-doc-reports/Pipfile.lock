@@ -352,11 +352,12 @@
         },
         "pyparsing": {
             "hashes": [
-                "sha256:c203ec8783bf771a155b207279b9bccb8dea02d8f0c9e5f8ead507bc3246ecc1",
-                "sha256:ef9d7589ef3c200abe66653d3f1ab1033c3c419ae9b9bdb1240a85b024efc88b"
+                "sha256:91d0fcde680d42cd031daf3a6ba20da3107e08a75de50da58360e7d94ab24d36",
+                "sha256:fff89494f45559d0f2ce46613b419f632bbb6afbdaed49696d322bcf98a58e99"
             ],
             "index": "pypi",
-            "version": "==2.4.7"
+            "markers": "python_version >= '3.9'",
+            "version": "==3.2.4"
         },
         "pyquery": {
             "hashes": [
