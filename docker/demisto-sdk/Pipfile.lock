@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "c69293955a96cdefbb8606fff1d18e651bdd451a8b566b5e4007ac7bcea8d7b6"
+            "sha256": "3bacf91f78fcbc3b3eee5c48f74cd592a753d7fbe974cd43323702c834322f4f"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -449,6 +449,13 @@
             ],
             "version": "==0.1.12"
         },
+        "distlib": {
+            "hashes": [
+                "sha256:034db59a0b96f8ca18035f36290806a9a6e6bd9d1ff91e45a7f172eb17e51784",
+                "sha256:1530ea13e350031b6312d8580ddb6b27a104275a31106523b8f123787f494f64"
+            ],
+            "version": "==0.3.8"
+        },
         "docker": {
             "hashes": [
                 "sha256:7a79bb439e3df59d0a72621775d600bc8bc8b422d285824cb37103eab91d1ce0",
@@ -470,6 +477,14 @@
             ],
             "markers": "python_version < '3.11'",
             "version": "==1.2.0"
+        },
+        "filelock": {
+            "hashes": [
+                "sha256:43339835842f110ca7ae60f1e1c160714c5a6afd15a2873419ab185334975c0f",
+                "sha256:6ea72da3be9b8c82afd3edcf99f2fffbb5076335a5ae4d03248bb5b6c3eae78a"
+            ],
+            "markers": "python_version >= '3.8'",
+            "version": "==3.14.0"
         },
         "flatten-dict": {
             "hashes": [
@@ -1053,11 +1068,11 @@
         },
         "platformdirs": {
             "hashes": [
-                "sha256:118c954d7e949b35437270383a3f2531e99dd93cf7ce4dc8340d3356d30f173b",
-                "sha256:cb633b2bcf10c51af60beb0ab06d2f1d69064b43abf4c185ca6b28865f3f9731"
+                "sha256:031cd18d4ec63ec53e82dceaac0417d218a6863f7745dfcc9efe7793b7039bdf",
+                "sha256:17d5a1161b3fd67b390023cb2d3b026bbd40abde6fdb052dfbd3a29c3ba22ee1"
             ],
-            "markers": "python_version >= '3.7'",
-            "version": "==4.0.0"
+            "markers": "python_version >= '3.8'",
+            "version": "==4.2.1"
         },
         "pluggy": {
             "hashes": [
@@ -2055,12 +2070,12 @@
         },
         "virtualenv": {
             "hashes": [
-                "sha256:11cb4608930d5fd3afb545ecf8db83fa50e1f96fc4fca80c94b07d2c83146589",
-                "sha256:d257bb3773e48cac60e475a19b608996c73f4d333b3ba2e4e57d5ac6134e0136"
+                "sha256:82bf0f4eebbb78d36ddaee0283d43fe5736b53880b8a8cdcd37390a07ac3741c",
+                "sha256:a624db5e94f01ad993d476b9ee5346fdf7b9de43ccaee0e0197012dc838a0e9b"
             ],
             "index": "pypi",
-            "markers": "python_version >= '2.7' and python_version not in '3.0, 3.1, 3.2, 3.3'",
-            "version": "==16.7.7"
+            "markers": "python_version >= '3.7'",
+            "version": "==20.26.2"
         },
         "vulture": {
             "hashes": [
