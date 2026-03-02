@@ -32,13 +32,21 @@
             "index": "pypi",
             "version": "==2.3.1"
         },
+        "ipaddress": {
+            "hashes": [
+                "sha256:6e0f4a39e66cb5bb9a137b00276a2eff74f93b71dcbdad6f10ff7df9d3557fcc",
+                "sha256:b7f8e0369580bb4a24d5ba1d7cc29660a4a6987763faf1d8a8046830e020e7e2"
+            ],
+            "version": "==1.0.23"
+        },
         "mail-parser": {
             "hashes": [
-                "sha256:b5d3cd8752cd7c0352c4520388b00881bca24e5ce613d667d8ff8a3ce4994f51",
-                "sha256:d66638acf0633dfd8a718e1e3646a6d58f8e9d75080c94638c7b267b4b0d6c86"
+                "sha256:35e3568b84361a3caba0f86b3a27a5756cebbd07e458fd91ab793c45f8a09160",
+                "sha256:a6267daa42b9a2dd18a667aacb4891d662a50503c78749089d5f09ebf2a31d2b"
             ],
             "index": "pypi",
-            "version": "==3.15.0"
+            "markers": "python_version >= '3.7'",
+            "version": "==4.1.2"
         },
         "simplejson": {
             "hashes": [
